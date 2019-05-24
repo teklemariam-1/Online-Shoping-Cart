@@ -1,5 +1,5 @@
 
-# Online-Shopping-Store
+# Online-Shopping-System
 A web application for online shopping with Spring Boot, FreeMarker &amp; Hibernate
 
 
